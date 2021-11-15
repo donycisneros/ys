@@ -1,6 +1,11 @@
 {
   "name": "ys",
   "private": true,
+  "author": {
+    "name": "Dony Cisneros",
+    "email": "dony.cisne@gmail.com",
+    "url": "https://www.donycisneros.com/"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
